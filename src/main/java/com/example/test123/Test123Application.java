@@ -10,4 +10,6 @@ public class Test123Application {
 		SpringApplication.run(Test123Application.class, args);
 	}
 
+	System.out.println("test");
+	System.out.println("test");
 }
