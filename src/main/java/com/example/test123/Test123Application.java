@@ -11,4 +11,5 @@ public class Test123Application {
 	}
 
 	System.out.println("test");
+	System.out.println("test");
 }
